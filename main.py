@@ -5,6 +5,8 @@ b = input("b: ")
 
 ####################################
 #Write your code below this 
+
+#printing the inputs opposite
 a,b = b,a
 
 
